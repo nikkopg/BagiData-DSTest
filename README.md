@@ -9,10 +9,10 @@ As instructed in Task Document enclosed with the Test Files, here I enclosed the
 1. Code:
 [News Title Classification](https://github.com/nikkopg/BagiData-DSTest/blob/main/News-Title/NikkoPGunara-NewsTitleClassification.ipynb),
 [Spam Comment Classification](https://github.com/nikkopg/BagiData-DSTest/blob/main/Spam-Comment/NikkoPGunara-SpamCommentClassification.ipynb)
-2. Dictionary/Corpus:
-[News Titles](https://github.com/nikkopg/BagiData-DSTest/blob/main/News-Title/word2vec-google-news-300.zip),
-[Spam Comment](https://github.com/nikkopg/BagiData-DSTest/blob/main/Spam-Comment/glove-twitter-200.zip)
+2. Dictionary/Corpus: Zip files in each folder in [Google Drive](https://drive.google.com/drive/folders/1i0gnvMMidTIc1innlVYMRFDHGtm_mnfW?usp=sharing)
 
 3. Explanation document: [slides.pdf](https://github.com/nikkopg/BagiData-DSTest/blob/main/Nikko%20P.%20Gunara%20-%20BagiData%20-%20Data%20Scientist%20Test.pdf)
 
-Note: Explanation is also included in both Jupyter Notebook files.
+Note:
+- Explanation is also included in both Jupyter Notebook files.
+- Due to the storage limit in GitHub, the full files can be accessed through this [Google Drive](https://drive.google.com/drive/folders/1i0gnvMMidTIc1innlVYMRFDHGtm_mnfW?usp=sharing)
