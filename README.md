@@ -15,4 +15,5 @@ As instructed in Task Document enclosed with the Test Files, here I enclosed the
 
 Note:
 - Explanation is also included in both Jupyter Notebook files.
+- To use or load the pre-trained model, extract zip files in the same directory as the Jupyter Notebook.
 - Due to the storage limit in GitHub, the full files can be accessed through this [Google Drive](https://drive.google.com/drive/folders/1i0gnvMMidTIc1innlVYMRFDHGtm_mnfW?usp=sharing)
